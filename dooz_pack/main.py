@@ -1,5 +1,5 @@
 from dooz_pack.main_launcher import Launcher
-
+print('salam')
 def main():
     names = []
     for player_index in range(2):
